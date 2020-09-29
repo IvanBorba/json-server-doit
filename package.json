@@ -1,0 +1,10 @@
+{
+  "name": "init-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.1",
+    "json-server-auth": "^2.0.2"
+  }
+}
