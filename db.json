@@ -1,3 +1,32 @@
 {
-  "users": []
+  "users": [
+    {
+      "email": "gabriel@kenzie.com",
+      "password": "$2a$10$J6seYDqYFBOG9zVYAGGBjOc3t7iqlRywnmJ0827CWab2dKYFNG3Wa",
+      "name": "Gabriel 2",
+      "id": 1
+    },
+    {
+      "email": "gabriel@gmail.com",
+      "password": "$2a$10$4a6AItBVPLNGpEAkZFy3vOfnoHb8aPsZa9VnaAP/lNaCjmaNoM0fq",
+      "name": "Gabriel",
+      "id": 2
+    }
+  ],
+  "tasks": [
+    {
+      "name": "Fazer as compras",
+      "description": "Descrição",
+      "done": false,
+      "userId": 1,
+      "id": 1
+    }
+  ],
+  "products": [],
+  "comments": [
+    {
+      "productId": 1,
+      "comment": "Esse produto é mt bom"
+    }
+  ]
 }
