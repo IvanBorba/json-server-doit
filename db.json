@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "email": "gabriel@kenzie.com",
+      "password": "$2a$10$J6seYDqYFBOG9zVYAGGBjOc3t7iqlRywnmJ0827CWab2dKYFNG3Wa",
+      "name": "Gabriel 2",
+      "id": 1
+    },
+    {
+      "email": "gabriel@gmail.com",
+      "password": "$2a$10$4a6AItBVPLNGpEAkZFy3vOfnoHb8aPsZa9VnaAP/lNaCjmaNoM0fq",
+      "name": "Gabriel",
+      "id": 2
+    },
+    {
+      "email": "gabri2el@gmail.com",
+      "password": "$2a$10$kSVZKlYUcx5mjYYoMujwp.gfnZirYLucy/XeQFEcCKHaK68OnEAam",
+      "name": "Gabriel",
+      "id": 3
+    },
+    {
+      "email": "gabriel@gma2il.com",
+      "password": "$2a$10$VHtyWA1Dy0ik82Web1Cjleuw.UeeZXiLUtfdPK63Xb4nzFz9Byedi",
+      "name": "Gabriel",
+      "id": 4
+    },
+    {
+      "email": "gabriel2@gmail.com",
+      "password": "$2a$10$j0bVexjKK6nLr.v5tMWCCe9deLaAD/PtdNUI8r9TF1oPInTh5qn5y",
+      "name": "asdasd",
+      "id": 5
+    },
+    {
+      "email": "gabriel32@gmail.com",
+      "password": "$2a$10$Uw4dbMp5dpn3SrnSX2vwn.2HctZI2kuOKEvL2Q2aTulA23nlH.dJu",
+      "name": "asdasd",
+      "id": 6
+    },
+    {
+      "email": "2gabriel32@gmail.com",
+      "password": "$2a$10$I8vrckidviRVfKe4BxzUKOnPPV1P362ZM6AzixWCpCsl24.hxtOKC",
+      "name": "asdasd",
+      "id": 7
+    },
+    {
+      "email": "gabrie2@gmmail.com",
+      "password": "$2a$10$Fz3vPK5K2JEAtMAozBRx2.T54ZFVRp64i0OjdXsezKS6WXZ2VYG4K",
+      "name": "asdasd",
+      "id": 8
+    },
+    {
+      "email": "gabriel@gmaaail.com",
+      "password": "$2a$10$qzHyCurpZRWi2QaCe2H9O.3rMu6mDtJnqJlnx9kGkykh7A.Qz7c0a",
+      "name": "Gabriel",
+      "id": 9
+    },
+    {
+      "email": "asdsd@gmail.com",
+      "password": "$2a$10$pDWYg90BQ.1tTZ/z1h0AfO3I99p/Ea3zdwSF8TkiYwBtm9Koo0o72",
+      "name": "Gabriel",
+      "id": 10
+    },
+    {
+      "email": "gabriel@gmail.com.br",
+      "password": "$2a$10$pgl5YGpKWyrLb.3YPGD2qe5wXdT/JinA0h0zqowJ94G5fTOKUDPN6",
+      "name": "Gabriel",
+      "id": 11
+    },
+    {
+      "email": "gabriel2@email.com",
+      "password": "$2a$10$7GYxeNtW6lAc3CWegy33F.an6d1qoq20Db2IycDhhpyUvEbY4X0gG",
+      "name": "Gabriel",
+      "id": 12
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Estudar React e banco de dados",
+      "description": "asdasd",
+      "userId": 12,
+      "completed": false,
+      "id": 2
+    }
+  ],
+  "products": [],
+  "comments": [
+    {
+      "productId": 1,
+      "comment": "Esse produto é mt bom"
+    }
+  ]
+}
